@@ -1,6 +1,6 @@
 filename = 'interiors-1.21.1-neoforge-0.6.1.jar'
 name = 'Create: Interiors'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

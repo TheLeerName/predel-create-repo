@@ -1,6 +1,6 @@
 filename = 'cbc_at_Neoforge_1.21.1_0.1.4c.jar'
 name = 'Create Big Cannons: Advanced Technologies'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

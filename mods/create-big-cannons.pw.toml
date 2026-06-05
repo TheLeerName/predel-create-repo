@@ -1,6 +1,6 @@
 filename = 'createbigcannons-5.11.5+mc.1.21.1.jar'
 name = 'Create Big Cannons'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

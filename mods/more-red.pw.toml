@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'morered-1.21.1-6.0.0.3.jar'
 hash = 'a69f18365301470c0fc2b07125c9ba3c10f270f6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5763286

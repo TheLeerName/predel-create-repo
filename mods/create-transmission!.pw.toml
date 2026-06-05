@@ -1,6 +1,6 @@
 filename = 'createtransmission-1.2.1+neoforge-create6-1.21.1.jar'
 name = 'Create: Transmission'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

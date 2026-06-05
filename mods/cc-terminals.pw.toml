@@ -1,6 +1,6 @@
 filename = 'ccterminals-1.21.1-forge-0.1.0.jar'
 name = 'CC: Terminals'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'createaddition-1.6.0.jar'
 name = 'Create Crafts & Additions'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

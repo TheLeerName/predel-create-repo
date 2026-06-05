@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'smoothchunk-1.21-4.1.jar'
 hash = 'f54d5d352e15560240f151a7d054096a33a58f4a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6296628

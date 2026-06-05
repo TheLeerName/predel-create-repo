@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'tracks-neoforge-1.21.1-1.0.1.jar'
 hash = 'cccd208606d7ac33f483e1e8a237092712a1a2c0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7968280

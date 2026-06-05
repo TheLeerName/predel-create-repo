@@ -1,6 +1,6 @@
 filename = 'CreateLazyTick-2.4.9-6.0.x-neoforge-1.21.1.jar'
 name = 'Create: LazyTick'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

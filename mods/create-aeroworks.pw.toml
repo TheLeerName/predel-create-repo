@@ -1,6 +1,6 @@
 filename = 'aeroworks-1.2.11.jar'
 name = 'Create: Aeroworks'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

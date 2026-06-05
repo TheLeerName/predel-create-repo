@@ -1,6 +1,6 @@
 filename = 'tfmg-1.2.0.jar'
 name = 'Create: The Factory Must Grow'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',

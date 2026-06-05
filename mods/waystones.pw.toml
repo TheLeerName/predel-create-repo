@@ -1,6 +1,6 @@
 filename = 'waystones-neoforge-1.21.1-21.1.34.jar'
 name = 'Waystones'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

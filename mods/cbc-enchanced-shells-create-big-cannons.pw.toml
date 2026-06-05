@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'CBCmoreshells-1.1.5.jar'
 hash = 'f5a93ef392c44ffb18792ea17104cb6da0d2ddf5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8182509

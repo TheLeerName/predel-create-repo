@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Create Fluid 2.1.2 Neoforge 1.21.1'
 hash = '4a35baca67d75654620941ac217426f199d56cb9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8149329

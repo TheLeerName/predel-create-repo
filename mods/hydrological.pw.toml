@@ -1,0 +1,13 @@
+name = "Hydrological (Overworld Terrain & Biomes)"
+filename = "hydrol-1.21.x-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aWHdYmUO/versions/jdjp2YpI/hydrol-1.21.x-1.2.0.jar"
+hash-format = "sha512"
+hash = "6b3bf9c4edd081f7e4ca41fef3b9152f150e8c704c72edd47f29c7fb17f00a5ff48be6081f341175c1ee9bab4f801c0fd1a34a8f0ef4fa59fe77deda3a713bc4"
+
+[update]
+[update.modrinth]
+mod-id = "aWHdYmUO"
+version = "jdjp2YpI"

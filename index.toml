@@ -385,8 +385,9 @@ hash = "a0f14f4ed2f61a71ffb1c57e12389a7603185ee841b5f7005daf7380f25b2205"
 metafile = true
 
 [[files]]
-file = "mods/cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
-hash = "f975a48f76ffbeb243dd1732314beaccf11335808174e4b009f20298cc926a75"
+file = "mods/cwhitelist.pw.toml"
+hash = "d800b5c9cd93c6c02ea3910e447779c7475e6f4166d4b28e44eb1e68d36b173f"
+metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
@@ -506,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "a7dda6b5b38a7b50a7124d220a4b06994e5ac1844edeee344ca56bb32532c1d1"
+metafile = true
+
+[[files]]
+file = "mods/hydrological.pw.toml"
+hash = "e29749199fbef624746fbab84c01c072b0388ccbd0961df2bbaeffc7ee7b3008"
 metafile = true
 
 [[files]]
@@ -853,11 +859,6 @@ hash = "bac568a822ff54cc50d54bad23db967d3ff008759e2f56c35d9df8aa20c4bbc4"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "820f76bfb5af7d5d878bad21a37d2dc5efe085615dc5eb55965d13c7116e7bfc"
-metafile = true
-
-[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "f72db621e738e57901da918c40ff1c4c8452e189aecfbae1b7d9a42c7e193976"
 metafile = true
@@ -966,6 +967,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9e1d802d36b464ecb2328ba6c4a3d5728bca946c7475043bb67d0d2c3ba5bee"
 metafile = true
+
+[[files]]
+file = "resourcepacks/PredelCreateResources.zip"
+hash = "ffeeb3f66b8da6e70e0d0051f6c00eb819b99e96d869791da65475dfa2a9c4de"
 
 [[files]]
 file = "resourcepacks/create-aeronautics-ru.pw.toml"

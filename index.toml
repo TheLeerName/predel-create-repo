@@ -11,11 +11,6 @@ hash = "ed82aba8deaa5475125965518e248bbebf708df5ef18f64516a4a3400f9e95cb"
 metafile = true
 
 [[files]]
-file = "mods/aetherial-islands.pw.toml"
-hash = "07735cfeaea8f9d4532a6ca653fa3b4fc83ed2d7f16fff96ac2741a8c37f12a8"
-metafile = true
-
-[[files]]
 file = "mods/anvians-lib.pw.toml"
 hash = "77b74dae59b01a1ca7dd060f20b3b46b8b041e21f27e36a137b690830eb4cd9d"
 metafile = true
@@ -151,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+hash = "675d84aa1b58599b90d642c9a09d7ea3f280838554f5f69007b27e25fb5b7ebf"
 metafile = true
 
 [[files]]
@@ -645,10 +640,6 @@ hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
 
 [[files]]
-file = "mods/morered-1.21.1-6.0.0.3.jar"
-hash = "8075126184f540c6b35b92127088f6cc4c9544627acac9f2287c62a0dfbde74e"
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "88ac0e2ddf95199cc53d94823e4f762f3ea753500238fe51b6ecf89f2c176f26"
 metafile = true
@@ -871,11 +862,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "ec36d1fa75fcf140c18104ac81b50aa8f16e9f3ab288fbabdb178860bf9ffef9"
-metafile = true
-
-[[files]]
-file = "mods/u-team-core.pw.toml"
-hash = "12bd5959765b3ba77b5864121d9b0576aaa0843e71ff0dcb18c21fbde8480bb6"
 metafile = true
 
 [[files]]

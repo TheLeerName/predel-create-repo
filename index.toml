@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f9398d647b0e6e8a16bb7bd619cd91f80443f8a298edf82b0784fc50179c0058"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "462c9f55d4b2b48a7a3efb9f19cb83ef714875210d782b06dc2a3a0e3adaa95c"
+hash = "9178c613f67c62d8b656950c873bd12aebfad6e787dbcb5e4c123b87b8977466"
 metafile = true
 
 [[files]]
@@ -610,9 +610,8 @@ hash = "3235a1b43bd156b85294aa37af26075d426cb14a89dc59f22957cae33da17eb8"
 metafile = true
 
 [[files]]
-file = "mods/more-red.pw.toml"
-hash = "effccc5f5372360a4274b433808ccfc5a6080df5ff75cf8ccb2efd5eb2e1a3c2"
-metafile = true
+file = "mods/morered-1.21.1-6.0.0.3.jar"
+hash = "8075126184f540c6b35b92127088f6cc4c9544627acac9f2287c62a0dfbde74e"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -646,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "7562dba981eef084d8c9246946d9a54fd22ef6515153f57c880f70bdfdb3b1d0"
+hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]

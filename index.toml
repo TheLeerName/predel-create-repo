@@ -648,6 +648,11 @@ hash = "4d0be2ca2a4fcb5c399b64a8b9fe27dbcdb5728004317fe56d41c4aaa9f1c547"
 metafile = true
 
 [[files]]
+file = "mods/neoessentials.pw.toml"
+hash = "efc09d97c549b0ea37daf25e82e78883ed6727bb40361931990262373a653055"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "2e07b01381ff1262e0b4da45d76a131252810751f870d803ae8aac583a88bf70"
 metafile = true

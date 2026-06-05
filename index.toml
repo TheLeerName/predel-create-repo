@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3deaa108c3a7ef5bdfa25fb9a5350d3d55134f1fbd86c816d61d6793df2ef58c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9d5374311157c990c9bfe731bfd27045178f767fd9dde073ce54393f42d4f52a"
 metafile = true

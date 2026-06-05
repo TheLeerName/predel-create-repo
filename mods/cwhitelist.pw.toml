@@ -1,0 +1,13 @@
+name = "cwhitelist"
+filename = "cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2fb1XGO/versions/xBttIwrc/cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
+hash-format = "sha512"
+hash = "4fed35be46e124245672cc1211a3460a9a6904d0edd9194758d332aae95d34a61a6637a385d1d65bd25992cfb167436bf1e867bcc2a401fb3e4a0e64f1b14db2"
+
+[update]
+[update.modrinth]
+mod-id = "A2fb1XGO"
+version = "xBttIwrc"

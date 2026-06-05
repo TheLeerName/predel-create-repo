@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "675d84aa1b58599b90d642c9a09d7ea3f280838554f5f69007b27e25fb5b7ebf"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
@@ -581,12 +581,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "4ec7c62dd1127ff0b02bbb7342f0fc286060d5623ded317361bf9eab013e796b"
+hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0a0825b3487cc604f64d63420f451f3e26f7427969327fad6269d02110ac6f20"
+hash = "d445356a994628ec609e0543b6e51ccda114fbb5f7deed7c59a1acc7f743763c"
 metafile = true
 
 [[files]]
@@ -637,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
 hash = "3235a1b43bd156b85294aa37af26075d426cb14a89dc59f22957cae33da17eb8"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
 
 [[files]]

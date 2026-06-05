@@ -385,9 +385,8 @@ hash = "a0f14f4ed2f61a71ffb1c57e12389a7603185ee841b5f7005daf7380f25b2205"
 metafile = true
 
 [[files]]
-file = "mods/cwhitelist.pw.toml"
-hash = "d800b5c9cd93c6c02ea3910e447779c7475e6f4166d4b28e44eb1e68d36b173f"
-metafile = true
+file = "mods/cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
+hash = "f975a48f76ffbeb243dd1732314beaccf11335808174e4b009f20298cc926a75"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"

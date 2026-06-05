@@ -984,14 +984,6 @@ hash = "f32bb2131406d1666af5e5003f7a78e342dcc1b0c525e5f7dfaeb60ba10a789b"
 metafile = true
 
 [[files]]
-file = "server/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "server/packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "dfc284c42d18ab9d5a19c6e1325bfadcf9c98978a4244b62db02da46a50bb228"
 metafile = true

@@ -1,6 +1,6 @@
 filename = 'fluid-2.1.2.jar'
 name = 'Create: Fluid'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

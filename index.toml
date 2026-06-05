@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
-hash = "efc233315ebbda37be3cd7d27194c6be9587e9c6bc8db1f6869b29cd008076d7"
+hash = "6c6f4c4d7cc4cabd90e8337b7043237a95373351838add667590a3fac37f9eb1"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fluid.pw.toml"
-hash = "2eb1a9b6aa7b0e7e1f347134578f7e30857475d198e1fe2d1fa2e326803ccda3"
+hash = "72153c262c872701f954938a315c4d1c0525197b0b4a358f63b9e50962caa2a5"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tracks.pw.toml"
-hash = "0323342cc7f8c0a1c8b89f82ffeec8421e19444a7910404d50ce228bca5a7425"
+hash = "e4eb0d09f984aa5e0f314fe998e114640ed573abd96b2938ecc64edf6a00ed7e"
 metafile = true
 
 [[files]]
@@ -510,6 +510,11 @@ hash = "a7dda6b5b38a7b50a7124d220a4b06994e5ac1844edeee344ca56bb32532c1d1"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player-renewed.pw.toml"
+hash = "d2cebcf1ff06af4e3bd77b4a33df23d3e3d6bfe0478cb388bf2f87b421aa2bb8"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "2558172f8d48d574cf5e13d5cea606efc56debab1132c93357cb4585f7b14245"
 metafile = true
@@ -636,11 +641,6 @@ hash = "8075126184f540c6b35b92127088f6cc4c9544627acac9f2287c62a0dfbde74e"
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "88ac0e2ddf95199cc53d94823e4f762f3ea753500238fe51b6ecf89f2c176f26"
-metafile = true
-
-[[files]]
-file = "mods/music-player.pw.toml"
-hash = "f7ff7777a2de1df78b5bf4105a6bcc2580419e1cdc97909253f6ac4f83445956"
 metafile = true
 
 [[files]]

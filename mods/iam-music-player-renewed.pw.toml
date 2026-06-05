@@ -1,0 +1,13 @@
+name = "Iam Music Player Renewed"
+filename = "neoforge-3.24.1-1.21.1-alpha1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XSEiZPP/versions/CTmS3zRN/neoforge-3.24.1-1.21.1-alpha1.jar"
+hash-format = "sha512"
+hash = "a94173cbbb326f1f867352e5c75a70ef3a585778ce262dd485be9a6064866d3050868bb55e635df14ded5d9de5ed68eb24344214b8489893d87f7fc68745b80f"
+
+[update]
+[update.modrinth]
+mod-id = "1XSEiZPP"
+version = "CTmS3zRN"

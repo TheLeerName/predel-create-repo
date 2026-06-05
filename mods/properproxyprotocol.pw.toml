@@ -1,7 +1,0 @@
-name = "Proper Proxy Protocol"
-filename = "ProperProxyProtocol-neoforge-1.0.0.jar"
-side = "server"
-
-[download]
-hash-format = "sha256"
-hash = "b1696b9eba43ffc86ab98d8aa7bc738dbfa078045a7ce5e5bff0b34f410a598a"

@@ -1,6 +1,6 @@
 filename = 'EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar'
 name = 'Euphoria Patcher'
-side = 'both'
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [

@@ -1,0 +1,17 @@
+filename = 'CustomPlayerModels-1.21-0.6.26a.jar'
+name = 'Customizable Player Models'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21v0.6.26a-neoforge'
+
+[download]
+hash = '181e7d9cd2892ec791658383ae8b6a96f5afe89c4726c764342ff6623ebcad3a3880e329fab9a1e7642ccd08c8f6398ef64195783090c667bbc41137218474d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h1E7sQNL/versions/WTq2BBDV/CustomPlayerModels-1.21-0.6.26a.jar'
+
+[update.modrinth]
+mod-id = 'h1E7sQNL'
+version = 'WTq2BBDV'

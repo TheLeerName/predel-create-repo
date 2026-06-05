@@ -1,0 +1,13 @@
+name = "Predel - Create: Aeronautics"
+author = "TheLeerName"
+version = "0.9.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "15371d26013b43ced3b5f0a39b90e0a9daa5bd51bb9df15d3f85492af1fb4b3c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

@@ -1,0 +1,17 @@
+filename = 'ccterminals-1.21.1-forge-0.1.0.jar'
+name = 'CC: Terminals'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = '12c6066fa6be4123a8dc6308b0b55db67d80e6ca1302b3d548f4e45f0b5fdc3468c5e9e5cc5680a3efb23437075ee86cea83a77416eb6ae0781c3360f420e7c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mbjglPPW/versions/t3Q3vacn/ccterminals-1.21.1-forge-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'mbjglPPW'
+version = 't3Q3vacn'

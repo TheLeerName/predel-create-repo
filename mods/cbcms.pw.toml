@@ -1,0 +1,21 @@
+filename = 'CBC-Military-Supplement-1.21.1-2.1.0.jar'
+name = 'CBC Military Supplement'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'CBC-Military-Supplement-1.21.1-2.1.0.jar'
+
+[download]
+hash = '4631f67f4222040f7802c076fff26b70e403a0ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8177966
+project-id = 1222164
+
+[[x-prismlauncher-dependencies]]
+addonId = '646668'
+type = 'REQUIRED'

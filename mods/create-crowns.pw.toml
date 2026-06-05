@@ -1,0 +1,17 @@
+filename = 'crowns-1.21.1-2.1.6.jar'
+name = 'Create : CROWNS'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.1.6'
+
+[download]
+hash = 'd1d8f128c468179ccbb7d5843c8c51876a0f2da66984e52910a8baa62ebf313c2a1f4a7928d795cf9d2bb1e9158fdc33e9433b847cb5aa56fa9130eb9deddf51'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RCsqeVSp/versions/IVd5owqN/crowns-1.21.1-2.1.6.jar'
+
+[update.modrinth]
+mod-id = 'RCsqeVSp'
+version = 'IVd5owqN'

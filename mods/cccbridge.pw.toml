@@ -1,0 +1,17 @@
+filename = 'cccbridge-mc1.21.1-v1.7.2-neoforge.jar'
+name = 'CC:C Bridge'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.2'
+
+[download]
+hash = 'b00cc2b77b8db073de77a82afb39e4f1d17addaa055382172d4fccff570d3c20b712a958de6f3f4a206f22513f56b1bd5267ee053a97f95e48e0e88b8780e58e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fXt291FO/versions/k3OVsWus/cccbridge-mc1.21.1-v1.7.2-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'fXt291FO'
+version = 'k3OVsWus'

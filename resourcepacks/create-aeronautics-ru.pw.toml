@@ -1,0 +1,13 @@
+name = "Create Aeronautics RU"
+filename = "Create-Aeronautics-RU-v1.4.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9NRsCp9/versions/Qf52pJPP/Create-Aeronautics-RU-v1.4.2.zip"
+hash-format = "sha512"
+hash = "835f075cb407c0c54dab425e321bd37acf172bb8df2acbb9b69aa684c26a98ab2426e099d865bedf1e940b57c9c463509458bdc2e553d6d5d65708bc575ec2b8"
+
+[update]
+[update.modrinth]
+mod-id = "y9NRsCp9"
+version = "Qf52pJPP"

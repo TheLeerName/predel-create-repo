@@ -1,0 +1,62 @@
+filename = 'Create Brass Cursors.zip'
+name = 'Create Brass Cursors'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9',
+    '26.1',
+    '26.1',
+    '26.1.1',
+    '26.1.1',
+    '26.1.2',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3'
+
+[download]
+hash = '0265b3c8e79aafd59f4025acabc41ff538817c0f9daacdd0a64af655f429165ae6e5629f9658c681e2e5803cbd05f9c8ffb6521c3062929c2dbdb80786787ff9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1lkKD8r/versions/KNYlOcpl/Create Brass Cursors.zip'
+
+[update.modrinth]
+mod-id = 'M1lkKD8r'
+version = 'KNYlOcpl'

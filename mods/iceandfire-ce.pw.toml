@@ -1,0 +1,25 @@
+filename = 'iceandfire-2.0-beta.17.jar'
+name = 'Ice And Fire Community Edition'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.0-beta.17'
+
+[download]
+hash = '8354eed1d1c307ab47e0482e95f77431fd39957cf7f5a4219a4c42bb329ce0a41edd28fe694e59da9ce515418c2aca1c0d5e1bdb6a08a12f1b7bfe1aedfeb53c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VpmCsizY/versions/kdvvFM7V/iceandfire-2.0-beta.17.jar'
+
+[update.modrinth]
+mod-id = 'VpmCsizY'
+version = 'kdvvFM7V'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3Acxy864'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XbiLGMMU'
+type = 'REQUIRED'

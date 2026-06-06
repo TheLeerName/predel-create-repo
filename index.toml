@@ -125,6 +125,11 @@ hash = "3c24be6abf32fad4ffde1daad129ffb5c660db16d65406b51d32824c602e2705"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/classicperipherals.pw.toml"
 hash = "e2e7a86d8b954b121d514a53775d6ae11950a16655234e00accdd55c6455331d"
 metafile = true

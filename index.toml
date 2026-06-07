@@ -180,6 +180,11 @@ hash = "4250b372ba6b628b65ea3947423093efd8b33093ceb21ec30c578b15515a8651"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "25a050894b102771045f97c93346aa3de1cb644742bbff782c782bfce3bc934c"
 metafile = true
@@ -647,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "4d0be2ca2a4fcb5c399b64a8b9fe27dbcdb5728004317fe56d41c4aaa9f1c547"
-metafile = true
-
-[[files]]
-file = "mods/neoessentials.pw.toml"
-hash = "f3a60a96334d65f958fbe92dab77eea25cdc8e3e8a953e24cf95538d3f0fb184"
 metafile = true
 
 [[files]]

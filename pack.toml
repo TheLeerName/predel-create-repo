@@ -1,12 +1,12 @@
 name = "Predel - Create: Aeronautics"
 author = "TheLeerName"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7e187d0ff9e84fdf5a6e493161309240cd3e0804f4148d1825edf84917499591"
+hash = "75e99ac707dc3db12884e58cf218ef0cf46cc994cf59ae1f36d913184fea706a"
 
 [versions]
 minecraft = "1.21.1"

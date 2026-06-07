@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoessentials.pw.toml"
-hash = "037ac33901899b9e359eaec92eded262437b711eef73ca6f96eae70465b68744"
+hash = "f3a60a96334d65f958fbe92dab77eea25cdc8e3e8a953e24cf95538d3f0fb184"
 metafile = true
 
 [[files]]

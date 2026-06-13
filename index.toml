@@ -855,6 +855,11 @@ hash = "bac568a822ff54cc50d54bad23db967d3ff008759e2f56c35d9df8aa20c4bbc4"
 metafile = true
 
 [[files]]
+file = "mods/terrablenderfix.pw.toml"
+hash = "001f677e29f6a3f5789a7171ed271fdf1e39bc7e3490901d6819dcbf16969ac8"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "f72db621e738e57901da918c40ff1c4c8452e189aecfbae1b7d9a42c7e193976"
 metafile = true

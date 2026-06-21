@@ -360,6 +360,10 @@ hash = "38e2f3895b4a296bbe1f18bde4846e3514bd245a2a5f155db664757b6b8509f8"
 metafile = true
 
 [[files]]
+file = "mods/create_collision_fix-0.2.0.jar"
+hash = "e0aa2ba56ca257e0761cfc24ebde5f1f9bb7383b105b0bed1149435841e77820"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "9986748423f1f98f51d8bd56f586c775cc9cbd7075c725fd3a09ffc988f16bfe"
 metafile = true

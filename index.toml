@@ -619,8 +619,8 @@ hash = "6cb90789f0adf2996fd38d3bb22d3e6e09fe00d25653ed5012e8f10846ed6df7"
 metafile = true
 
 [[files]]
-file = "mods/lithostitchedleveldatdepthfixer-1.0.2.jar"
-hash = "03ed42bd8438554109d61d0085ea8e83adad62474f0c8284639beda6e00f326f"
+file = "mods/lithostitchedleveldatdepthfixer-1.0.3.jar"
+hash = "68d34e991a5789093c08dcdc613351b7562622f53fe0c520b083d475a440da3c"
 
 [[files]]
 file = "mods/lootr.pw.toml"

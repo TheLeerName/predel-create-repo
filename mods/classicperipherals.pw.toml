@@ -1,17 +1,13 @@
-filename = 'classicperipherals-0.5.1-neoforge-1.21.1.jar'
-name = 'Classic Peripherals'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.5.1'
+name = "Classic Peripherals"
+filename = "classicperipherals-neoforge-1.21.1-0.5.2.jar"
+side = "both"
 
 [download]
-hash = 'c350709ad19e6264b724f592cc02ed5057955abb616f6b5b7081dfba0fbef2da896f6b85989b2792c7ad2ee7eb52c78351ec0053bf11534c45e059d45d487033'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/F0AMrDjl/versions/K7PSpKUD/classicperipherals-0.5.1-neoforge-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/F0AMrDjl/versions/JqCBpCls/classicperipherals-neoforge-1.21.1-0.5.2.jar"
+hash-format = "sha512"
+hash = "122f74d57e49b224db713b3f2dc66bf5930539621c577d262cbee8f09f34aa0817dcfc7519801d33591cc07505ef54e49ac60df978f8deb569b0acc6716095b2"
 
+[update]
 [update.modrinth]
-mod-id = 'F0AMrDjl'
-version = 'K7PSpKUD'
+mod-id = "F0AMrDjl"
+version = "JqCBpCls"

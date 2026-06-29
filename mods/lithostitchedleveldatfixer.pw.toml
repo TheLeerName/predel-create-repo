@@ -1,0 +1,8 @@
+name = "LithostitchedLevelDatDepthFixer"
+filename = "lithostitchedleveldatdepthfixer-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheLeerName/lithostitched-level-dat-depth-fixer/releases/download/1.0.2/lithostitchedleveldatdepthfixer-1.0.2.jar"
+hash-format = "sha512"
+hash = "a436cb1a3c022b24ce16c7977d763ceff6369e0929e8b837fb1e24b7b1cae831d689af659212800f669276eac4b674c2fb66319d2b59961fc61cd231eeb05248"

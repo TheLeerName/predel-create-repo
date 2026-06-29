@@ -1,16 +1,13 @@
-filename = 'cupboard-1.21-3.5.jar'
-name = 'Cupboard'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'cupboard-1.21-3.5.jar'
+name = "Cupboard"
+filename = "cupboard-1.21.1-3.8.jar"
+side = "both"
 
 [download]
-hash = 'e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "39df849e5a338dfe9ccb7632b1849c20357e597b"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 7746488
+file-id = 8260590
 project-id = 326652

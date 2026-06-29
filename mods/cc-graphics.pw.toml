@@ -1,17 +1,13 @@
-filename = 'ccgraphics-1.21.1-forge-0.1.5.jar'
-name = 'CC: Graphics'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.5'
+name = "CC: Graphics"
+filename = "ccgraphics-1.21.1-forge-0.2.0.jar"
+side = "both"
 
 [download]
-hash = '45cf379f511bbe2bd73fa20bedd051bbd9195b3930391e21251fec361120edcd061984cf3918cc492285487cb6fb02487bf0e24a685db0cbbdc4e91a1f4948a2'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/lMJdP3PH/versions/A2hLbwwu/ccgraphics-1.21.1-forge-0.1.5.jar'
+url = "https://cdn.modrinth.com/data/lMJdP3PH/versions/6Pnzim7g/ccgraphics-1.21.1-forge-0.2.0.jar"
+hash-format = "sha512"
+hash = "2459aa166a9a3c8f1a8e07d44f0342b2c3380598c09c0786c6053d2a2fbc5950077082df9d1e51c46be0d37083aa8c2f0169051b82fef73a9d0249959a409663"
 
+[update]
 [update.modrinth]
-mod-id = 'lMJdP3PH'
-version = 'A2hLbwwu'
+mod-id = "lMJdP3PH"
+version = "6Pnzim7g"

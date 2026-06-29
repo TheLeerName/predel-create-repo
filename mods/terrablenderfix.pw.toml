@@ -1,6 +1,6 @@
 name = "TerraBlenderFix"
 filename = "terrablenderfix-neoforge-1.21.1-0.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t2pgJYye/versions/mj0Dc8K5/terrablenderfix-neoforge-1.21.1-0.0.1.jar"

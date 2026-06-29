@@ -1,0 +1,13 @@
+name = "Shtreimel - Sable Utility"
+filename = "shtreimel-neoforge-1.21.1-0.3.1-obf.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75bb1da6742c17b5b46fd5538136230a00e4df88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8020847
+project-id = 1529625

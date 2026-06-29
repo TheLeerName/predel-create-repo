@@ -1,6 +1,6 @@
 filename = 'YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar'
 name = "YUNG's Better Jungle Temples"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

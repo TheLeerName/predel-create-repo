@@ -1,0 +1,8 @@
+name = "Create Collision Fix"
+filename = "create_collision_fix-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TheLeerName/predel-create-repo/refs/heads/main/overrides/mods/create_collision_fix-0.2.0.jar"
+hash-format = "sha512"
+hash = "b7d5181285c1b5456cd9814e410ec3a24b0ca7d48198694b39381ae60fe571972456606f8a7cf270571a0b9f9bf870bc5615c6b53fa58f856ce4b0c29dc5585b"

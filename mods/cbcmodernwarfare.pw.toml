@@ -1,8 +1,0 @@
-name = "CBC: Modern Warfare"
-filename = "cbcmodernwarfare-0.0.6d+mc.1.21.1-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/TheLeerName/predel-create-repo/refs/heads/main/overrides/mods/cbcmodernwarfare-0.0.6d+mc.1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "adb222bd0ea7015c6d802fd29f59c815998a58df3c8ffd003da1c49764baecf95e326c19d59e39c34606e1c0d068bd2db6fd0e8448f626b7849ac6a73b3a0e2d"

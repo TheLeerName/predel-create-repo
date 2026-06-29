@@ -76,9 +76,8 @@ hash = "6c6f4c4d7cc4cabd90e8337b7043237a95373351838add667590a3fac37f9eb1"
 metafile = true
 
 [[files]]
-file = "mods/cbcmodernwarfare.pw.toml"
-hash = "00a715e22c693de138ee12a6f7289e989d2b0e07a35211ce3d50202504cff7ef"
-metafile = true
+file = "mods/cbcmodernwarfare-0.0.6d+mc.1.21.1-neoforge.jar"
+hash = "b15cd24f7b2e394830806003276114e558432b632ec6c4f2abbec2c58edc2c9b"
 
 [[files]]
 file = "mods/cbcms.pw.toml"
@@ -226,11 +225,6 @@ hash = "73844c0c81cf8a52e0ec9799354a9ec5ad8a7eb3c9cc2123917aee8bfe86d64a"
 metafile = true
 
 [[files]]
-file = "mods/create-collision-fix.pw.toml"
-hash = "e579575e4a8aaad006aae40cac213dad58858e7d87bb428a5cf66f80060f4e18"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
@@ -364,6 +358,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "38e2f3895b4a296bbe1f18bde4846e3514bd245a2a5f155db664757b6b8509f8"
 metafile = true
+
+[[files]]
+file = "mods/create_collision_fix-0.2.0.jar"
+hash = "b25917996a1ea0219a848b4f31e2120af989226aafe9fef8171176649e15f2a1"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -621,9 +619,8 @@ hash = "6cb90789f0adf2996fd38d3bb22d3e6e09fe00d25653ed5012e8f10846ed6df7"
 metafile = true
 
 [[files]]
-file = "mods/lithostitchedleveldatfixer.pw.toml"
-hash = "e3512a8a325f2c713cd2c4d7e42201daf88394feb14cf602700f9d3cf1c9cace"
-metafile = true
+file = "mods/lithostitchedleveldatdepthfixer-1.0.2.jar"
+hash = "03ed42bd8438554109d61d0085ea8e83adad62474f0c8284639beda6e00f326f"
 
 [[files]]
 file = "mods/lootr.pw.toml"
@@ -969,14 +966,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9e1d802d36b464ecb2328ba6c4a3d5728bca946c7475043bb67d0d2c3ba5bee"
 metafile = true
-
-[[files]]
-file = "overrides/mods/cbcmodernwarfare-0.0.6d+mc.1.21.1-neoforge.jar"
-hash = "b15cd24f7b2e394830806003276114e558432b632ec6c4f2abbec2c58edc2c9b"
-
-[[files]]
-file = "overrides/mods/create_collision_fix-0.2.0.jar"
-hash = "b25917996a1ea0219a848b4f31e2120af989226aafe9fef8171176649e15f2a1"
 
 [[files]]
 file = "resourcepacks/PredelCreateResources.zip"
